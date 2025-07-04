@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/vozia_enhanced_v2/index.html" }
+  ]
+}
